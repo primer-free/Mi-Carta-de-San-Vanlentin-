@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Carta de San Valentín</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fbe9e7;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            margin-top: 50px;
+        }
+        h1 {
+            text-align: center;
+            color: #e57373;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .signature {
+            text-align: right;
+            margin-top: 30px;
+            font-style: italic;
+        }
+        .heart {
+            color: #e57373;
+            font-size: 24px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Feliz Día de San Valentín, mi amor</h1>
+        <p>Hoy es un día especial, un día en el que puedo recordarte lo importante que eres para mí. Desde el momento en que te conocí, mi vida cambió por completo, y cada día a tu lado se ha convertido en un regalo lleno de amor, alegría y momentos felices.</p>
+        <p>No solo es el Día de San Valentín el que me recuerda cuánto te quiero, sino que cada minuto a tu lado es un recordatorio de la suerte que tengo al haberte encontrado. Eres mi apoyo, mi alegría, y el corazón de mi vida.</p>
+        <p>Hoy quiero agradecerte por ser tú, por compartir tu amor conmigo y por hacerme sentir especial todos los días. A tu lado, la vida es mucho más hermosa.</p>
+        
+        <div class="heart">❤</div>
+        
+        <p class="signature">Con todo mi amor,<br>Tu [nombre]</p>
+    </div>
+
+</body>
+</html>
