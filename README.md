@@ -51,7 +51,7 @@
         
         <div class="heart">❤</div>
         
-        <p class="signature">Con todo mi amor,<br>Tu [nombre]</p>
+        <p class="signature">Con todo mi amor,<br>Tu [beatriz]</p>
     </div>
 
 </body>
